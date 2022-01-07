@@ -2,8 +2,8 @@ _core:
   default_config_hash: kFLSOjaWFfawAxFTZclDYQwVzpfwoxLsHWeeKzzAUVo
 langcode: en
 uuid: e6191fd0-ba37-4233-a58f-6401649f27eb
-name: Drupal
-mail: admin@example.com
+name: 'Rupaul Drag Race'
+mail: castilloyuvania@gmail.com
 slogan: ''
 page:
   403: ''
